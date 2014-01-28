@@ -1,4 +1,5 @@
-blog
+Blog
 ====
 
-It's big it's heavy it's wood, it's better than bad it's good!
+- It's big it's heavy it's wood!
+- It's better than bad it's good!
